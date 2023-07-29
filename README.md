@@ -1,7 +1,8 @@
 # Wallpapers
 
+All my wallpapers are in this folder. They are used by [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) to set the background.
 
-## Wallpapers by 焦茶
+## Wallpapers - by 焦茶
 
 ![](./anime-girls-street.jpg)
 ![](./anime-girls_long-hair_sky.jpg)
@@ -16,7 +17,7 @@
 3. https://www.wallpaperflare.com/black-haired-female-anime-character-anime-girls-balloon-women-wallpaper-hltb
 2. https://www.wallpaperflare.com/%E7%84%A6%E8%8C%B6-seagulls-smoking-anime-girls-day-nature-occupation-wallpaper-cnucl
 
-## Wallpapers from "Rolling Girls"
+## Wallpapers - "Rolling Girls"
 
 ![](./rolling_girls.png)
 
